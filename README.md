@@ -1,3 +1,8 @@
+#ShopAndKeeper
+Modified from ShoppingList++ in Firebase Essentials on Udacity cource
+
+=================================================
+
 ShoppingList++
 ========
 
